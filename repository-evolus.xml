@@ -13,8 +13,8 @@
 		<version>1.0</version>
 		<updated>2019-10-08T16:14:00.754+0700</updated>
 		<license>MIT</license>
-		<url>https://raw.githubusercontent.com/evolus/stencils-repository/master/dgthanhan.UltimateNote/dgthanhan_UltimateNote-1.0.zip?t=1570526040755</url>
-		<thumbnail>https://raw.githubusercontent.com/evolus/stencils-repository/master/dgthanhan.UltimateNote/layout_image.png?t=1570526040755</thumbnail>
+		<url>https://raw.githubusercontent.com/evolus/stencils-repository/master/dgthanhan.UltimateNote/dgthanhan_UltimateNote-1.0.zip</url>
+		<thumbnail>https://raw.githubusercontent.com/evolus/stencils-repository/master/dgthanhan.UltimateNote/layout_image.png</thumbnail>
 		<icon/>
 	</Collection>
 	<Collection>
@@ -26,8 +26,8 @@
 		<version>1.0</version>
 		<updated>2019-10-08T16:33:14.069+0700</updated>
 		<license>MIT</license>
-		<url>https://raw.githubusercontent.com/evolus/stencils-repository/master/dgthanhan.Meme01/dgthanhan_Meme01-1.0.zip?t=1570527194071</url>
-		<thumbnail>https://raw.githubusercontent.com/evolus/stencils-repository/master/dgthanhan.Meme01/layout_image.png?t=1570527194071</thumbnail>
+		<url>https://raw.githubusercontent.com/evolus/stencils-repository/master/dgthanhan.Meme01/dgthanhan_Meme01-1.0.zip</url>
+		<thumbnail>https://raw.githubusercontent.com/evolus/stencils-repository/master/dgthanhan.Meme01/layout_image.png</thumbnail>
 		<icon/>
 	</Collection>
 	<Collection>
@@ -39,8 +39,8 @@
 		<version>1.0</version>
 		<updated>2019-10-08T16:36:28.390+0700</updated>
 		<license>MIT</license>
-		<url>https://raw.githubusercontent.com/evolus/stencils-repository/master/dgthanhan.Meme02/dgthanhan_Meme02-1.0.zip?t=1570527388390</url>
-		<thumbnail>https://raw.githubusercontent.com/evolus/stencils-repository/master/dgthanhan.Meme02/layout_image.png?t=1570527388390</thumbnail>
+		<url>https://raw.githubusercontent.com/evolus/stencils-repository/master/dgthanhan.Meme02/dgthanhan_Meme02-1.0.zip</url>
+		<thumbnail>https://raw.githubusercontent.com/evolus/stencils-repository/master/dgthanhan.Meme02/layout_image.png</thumbnail>
 		<icon/>
 	</Collection>
 	<Collection>
@@ -52,8 +52,8 @@
 		<version>1.0</version>
 		<updated>2019-10-08T16:41:36.382+0700</updated>
 		<license>MIT</license>
-		<url>https://raw.githubusercontent.com/evolus/stencils-repository/master/evolus.mdm.data/evolus_mdm_data-1.0.zip?t=1570527696383</url>
-		<thumbnail>https://raw.githubusercontent.com/evolus/stencils-repository/master/evolus.mdm.data/layout_image.png?t=1570527696383</thumbnail>
+		<url>https://raw.githubusercontent.com/evolus/stencils-repository/master/evolus.mdm.data/evolus_mdm_data-1.0.zip</url>
+		<thumbnail>https://raw.githubusercontent.com/evolus/stencils-repository/master/evolus.mdm.data/layout_image.png</thumbnail>
 		<icon/>
 	</Collection>
 	<Collection>
@@ -65,8 +65,8 @@
 		<version>1.0</version>
 		<updated>2019-10-08T16:42:16.395+0700</updated>
 		<license>MIT</license>
-		<url>https://raw.githubusercontent.com/evolus/stencils-repository/master/dgthanhan.ERDSimple/dgthanhan_ERDSimple-1.0.zip?t=1570527736395</url>
-		<thumbnail>https://raw.githubusercontent.com/evolus/stencils-repository/master/dgthanhan.ERDSimple/layout_image.png?t=1570527736395</thumbnail>
+		<url>https://raw.githubusercontent.com/evolus/stencils-repository/master/dgthanhan.ERDSimple/dgthanhan_ERDSimple-1.0.zip</url>
+		<thumbnail>https://raw.githubusercontent.com/evolus/stencils-repository/master/dgthanhan.ERDSimple/layout_image.png</thumbnail>
 		<icon/>
 	</Collection>
     <Collection>
@@ -78,8 +78,8 @@
         <version>1.0</version>
         <updated>2023-12-15T14:56:16.395+0700</updated>
         <license>MIT</license>
-        <url>https://raw.githubusercontent.com/evolus/stencils-repository/master/Uncategorized/evolus_Uncategorized-1.0.zip?t=1702627532931</url>
-        <thumbnail>https://raw.githubusercontent.com/evolus/stencils-repository/master/Uncategorized/Uncategorized.png?t=1702627532931</thumbnail>
+        <url>https://raw.githubusercontent.com/evolus/stencils-repository/master/Uncategorized/evolus_Uncategorized-1.0.zip</url>
+        <thumbnail>https://raw.githubusercontent.com/evolus/stencils-repository/master/Uncategorized/Uncategorized.png</thumbnail>
         <icon/>
     </Collection>
 </Collections>
