@@ -35,10 +35,10 @@
         <description>Material icon resource bundle contributed by community developers and designers</description>
         <author>Contributors</author>
         <website>https://materialdesignicons.com/</website>
-        <version>1.0</version>
-        <updated>2017-05-09T00:00:00.000Z</updated>
+        <version>1.1</version>
+        <updated>2026-06-01T00:00:00.000Z</updated>
         <license>OFL-1.1</license>
-        <url>https://github.com/dgthanhan/stencils/releases/download/SB-1.0-WF/CommunityMaterialIconsResourceBundle-1.0.zip</url>
+        <url>https://github.com/dgthanhan/stencils/releases/download/CMDI-1.1/CommunityMaterialIconsResourceBundle-1.1.zip</url>
         <thumbnail>https://raw.githubusercontent.com/dgthanhan/stencils/a0c970800bd837af0ca8da462e63f54e87726f00/CommunityMaterialIconsResourceBundle/preview.png</thumbnail>
         <icon></icon>
     </Collection>
