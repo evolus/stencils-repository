@@ -69,6 +69,138 @@
 		<thumbnail>https://raw.githubusercontent.com/evolus/stencils-repository/master/dgthanhan.ERDSimple/layout_image.png</thumbnail>
 		<icon/>
 	</Collection>
+	
+	
+
+	<Collection>
+		<id>bootstrapOfficalIcons</id>
+		<displayName>Resource:  bootstrapOfficalIcons</displayName>
+		<description>SVG resource bundle for bootstrapOfficalIcons</description>
+		<author>dgthanhan</author>
+		<website>https://pencil.evolus.vn/</website>
+		<version>1.0</version>
+		<updated>2026-06-02T16:42:16.395+0700</updated>
+		<license>MIT</license>
+		<url>https://raw.githubusercontent.com/evolus/stencils-repository/master/ResourceBundles/bootstrapOfficalIcons/bootstrapOfficalIcons-1.0.zip</url>
+		<thumbnail>https://raw.githubusercontent.com/evolus/stencils-repository/master/ResourceBundles/bootstrapOfficalIcons/preview.png</thumbnail>
+		<icon/>
+	</Collection>
+
+	<Collection>
+		<id>fontawesomeIcons</id>
+		<displayName>Resource:  fontawesomeIcons</displayName>
+		<description>SVG resource bundle for fontawesomeIcons</description>
+		<author>dgthanhan</author>
+		<website>https://pencil.evolus.vn/</website>
+		<version>1.0</version>
+		<updated>2026-06-02T16:42:16.395+0700</updated>
+		<license>MIT</license>
+		<url>https://raw.githubusercontent.com/evolus/stencils-repository/master/ResourceBundles/fontawesomeIcons/fontawesomeIcons-1.0.zip</url>
+		<thumbnail>https://raw.githubusercontent.com/evolus/stencils-repository/master/ResourceBundles/fontawesomeIcons/preview.png</thumbnail>
+		<icon/>
+	</Collection>
+
+	<Collection>
+		<id>glowIcons</id>
+		<displayName>Resource:  glowIcons</displayName>
+		<description>SVG resource bundle for glowIcons</description>
+		<author>dgthanhan</author>
+		<website>https://pencil.evolus.vn/</website>
+		<version>1.0</version>
+		<updated>2026-06-02T16:42:16.395+0700</updated>
+		<license>MIT</license>
+		<url>https://raw.githubusercontent.com/evolus/stencils-repository/master/ResourceBundles/glowIcons/glowIcons-1.0.zip</url>
+		<thumbnail>https://raw.githubusercontent.com/evolus/stencils-repository/master/ResourceBundles/glowIcons/preview.png</thumbnail>
+		<icon/>
+	</Collection>
+
+	<Collection>
+		<id>heroiconsOutlineIcons</id>
+		<displayName>Resource:  heroiconsOutlineIcons</displayName>
+		<description>SVG resource bundle for heroiconsOutlineIcons</description>
+		<author>dgthanhan</author>
+		<website>https://pencil.evolus.vn/</website>
+		<version>1.0</version>
+		<updated>2026-06-02T16:42:16.395+0700</updated>
+		<license>MIT</license>
+		<url>https://raw.githubusercontent.com/evolus/stencils-repository/master/ResourceBundles/heroiconsOutlineIcons/heroiconsOutlineIcons-1.0.zip</url>
+		<thumbnail>https://raw.githubusercontent.com/evolus/stencils-repository/master/ResourceBundles/heroiconsOutlineIcons/preview.png</thumbnail>
+		<icon/>
+	</Collection>
+
+	<Collection>
+		<id>heroiconsSolidIcons</id>
+		<displayName>Resource:  heroiconsSolidIcons</displayName>
+		<description>SVG resource bundle for heroiconsSolidIcons</description>
+		<author>dgthanhan</author>
+		<website>https://pencil.evolus.vn/</website>
+		<version>1.0</version>
+		<updated>2026-06-02T16:42:16.395+0700</updated>
+		<license>MIT</license>
+		<url>https://raw.githubusercontent.com/evolus/stencils-repository/master/ResourceBundles/heroiconsSolidIcons/heroiconsSolidIcons-1.0.zip</url>
+		<thumbnail>https://raw.githubusercontent.com/evolus/stencils-repository/master/ResourceBundles/heroiconsSolidIcons/preview.png</thumbnail>
+		<icon/>
+	</Collection>
+
+	<Collection>
+		<id>lucideIcons</id>
+		<displayName>Resource:  lucideIcons</displayName>
+		<description>SVG resource bundle for lucideIcons</description>
+		<author>dgthanhan</author>
+		<website>https://pencil.evolus.vn/</website>
+		<version>1.0</version>
+		<updated>2026-06-02T16:42:16.395+0700</updated>
+		<license>MIT</license>
+		<url>https://raw.githubusercontent.com/evolus/stencils-repository/master/ResourceBundles/lucideIcons/lucideIcons-1.0.zip</url>
+		<thumbnail>https://raw.githubusercontent.com/evolus/stencils-repository/master/ResourceBundles/lucideIcons/preview.png</thumbnail>
+		<icon/>
+	</Collection>
+
+	<Collection>
+		<id>out.txt</id>
+		<displayName>Resource:  out.txt</displayName>
+		<description>SVG resource bundle for out.txt</description>
+		<author>dgthanhan</author>
+		<website>https://pencil.evolus.vn/</website>
+		<version>1.0</version>
+		<updated>2026-06-02T16:42:16.395+0700</updated>
+		<license>MIT</license>
+		<url>https://raw.githubusercontent.com/evolus/stencils-repository/master/ResourceBundles/out.txt/out.txt-1.0.zip</url>
+		<thumbnail>https://raw.githubusercontent.com/evolus/stencils-repository/master/ResourceBundles/out.txt/preview.png</thumbnail>
+		<icon/>
+	</Collection>
+
+	<Collection>
+		<id>tablerFilledIcons</id>
+		<displayName>Resource:  tablerFilledIcons</displayName>
+		<description>SVG resource bundle for tablerFilledIcons</description>
+		<author>dgthanhan</author>
+		<website>https://pencil.evolus.vn/</website>
+		<version>1.0</version>
+		<updated>2026-06-02T16:42:16.395+0700</updated>
+		<license>MIT</license>
+		<url>https://raw.githubusercontent.com/evolus/stencils-repository/master/ResourceBundles/tablerFilledIcons/tablerFilledIcons-1.0.zip</url>
+		<thumbnail>https://raw.githubusercontent.com/evolus/stencils-repository/master/ResourceBundles/tablerFilledIcons/preview.png</thumbnail>
+		<icon/>
+	</Collection>
+
+	<Collection>
+		<id>tablerOutlineIcons</id>
+		<displayName>Resource:  tablerOutlineIcons</displayName>
+		<description>SVG resource bundle for tablerOutlineIcons</description>
+		<author>dgthanhan</author>
+		<website>https://pencil.evolus.vn/</website>
+		<version>1.0</version>
+		<updated>2026-06-02T16:42:16.395+0700</updated>
+		<license>MIT</license>
+		<url>https://raw.githubusercontent.com/evolus/stencils-repository/master/ResourceBundles/tablerOutlineIcons/tablerOutlineIcons-1.0.zip</url>
+		<thumbnail>https://raw.githubusercontent.com/evolus/stencils-repository/master/ResourceBundles/tablerOutlineIcons/preview.png</thumbnail>
+		<icon/>
+	</Collection>
+
+
+	
+	
     <Collection>
         <id>evolus.Uncategorized</id>
         <displayName>Uncategorized Shapes</displayName>
