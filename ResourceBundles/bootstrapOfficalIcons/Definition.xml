@@ -1,0 +1,8 @@
+<Shapes xmlns="http://www.evolus.vn/Namespace/Pencil" id="bootstrapOfficalIcons" displayName="Bootstrap Offical icons" author="https://github.com/twbs/icons.git" description="Bootstrap Offical icons" url="https://github.com/twbs/icons.git">
+  <Script comments="Resource script"><![CDATA[
+collection.iconType = "bootstrap";
+collection.RESOURCE_LIST = [
+        {name: "<All>", prefix: "icons", type: "svg"}
+    ];
+]]></Script>
+</Shapes>

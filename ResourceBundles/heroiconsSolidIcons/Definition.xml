@@ -1,0 +1,8 @@
+<Shapes xmlns="http://www.evolus.vn/Namespace/Pencil" id="heroiconsSolidIcons" displayName="Heroicons Solid icons" author="https://github.com/tailwindlabs/heroicons.git" description="Heroicons Solid icons" url="https://github.com/tailwindlabs/heroicons.git">
+  <Script comments="Resource script"><![CDATA[
+collection.iconType = "herosolid";
+collection.RESOURCE_LIST = [
+        {name: "<All>", prefix: "icons", type: "svg"}
+    ];
+]]></Script>
+</Shapes>

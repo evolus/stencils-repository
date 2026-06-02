@@ -1,0 +1,8 @@
+<Shapes xmlns="http://www.evolus.vn/Namespace/Pencil" id="tablerOutlineIcons" displayName="Tabler Outline Icons" author="https://github.com/tabler/tabler-icons.git" description="Tabler Outline Icons" url="https://github.com/tabler/tabler-icons.git">
+  <Script comments="Resource script"><![CDATA[
+collection.iconType = "tableroutline";
+collection.RESOURCE_LIST = [
+        {name: "<All>", prefix: "icons", type: "svg"}
+    ];
+]]></Script>
+</Shapes>

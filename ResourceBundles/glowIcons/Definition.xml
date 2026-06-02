@@ -1,0 +1,8 @@
+<Shapes xmlns="http://www.evolus.vn/Namespace/Pencil" id="glowIcons" displayName="Glow Icons" author="https://github.com/glow-ui/glow-icons.git" description="Glow Icons" url="https://github.com/glow-ui/glow-icons.git">
+  <Script comments="Resource script"><![CDATA[
+collection.iconType = "glow";
+collection.RESOURCE_LIST = [
+        {name: "<All>", prefix: "icons", type: "svg"}
+    ];
+]]></Script>
+</Shapes>

@@ -1,0 +1,8 @@
+<Shapes xmlns="http://www.evolus.vn/Namespace/Pencil" id="tablerFilledIcons" displayName="Tabler Filled Icons" author="https://github.com/tabler/tabler-icons.git" description="Tabler Filled Icons" url="https://github.com/tabler/tabler-icons.git">
+  <Script comments="Resource script"><![CDATA[
+collection.iconType = "tablerfilled";
+collection.RESOURCE_LIST = [
+        {name: "<All>", prefix: "icons", type: "svg"}
+    ];
+]]></Script>
+</Shapes>

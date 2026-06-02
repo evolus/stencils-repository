@@ -1,0 +1,8 @@
+<Shapes xmlns="http://www.evolus.vn/Namespace/Pencil" id="fontawesomeIcons" displayName="Font-Awesome icons" author="https://github.com/FortAwesome/Font-Awesome.git" description="Font-Awesome icons" url="https://github.com/FortAwesome/Font-Awesome.git">
+  <Script comments="Resource script"><![CDATA[
+collection.iconType = "fa";
+collection.RESOURCE_LIST = [
+        {name: "<All>", prefix: "icons", type: "svg"}
+    ];
+]]></Script>
+</Shapes>

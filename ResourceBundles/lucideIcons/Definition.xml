@@ -1,0 +1,8 @@
+<Shapes xmlns="http://www.evolus.vn/Namespace/Pencil" id="lucideIcons" displayName="Lucide icons" author="https://github.com/lucide-icons/lucide.git" description="Lucide icons" url="https://github.com/lucide-icons/lucide.git">
+  <Script comments="Resource script"><![CDATA[
+collection.iconType = "lucide";
+collection.RESOURCE_LIST = [
+        {name: "<All>", prefix: "icons", type: "svg"}
+    ];
+]]></Script>
+</Shapes>
