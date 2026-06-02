@@ -157,20 +157,6 @@
 	</Collection>
 
 	<Collection>
-		<id>out.txt</id>
-		<displayName>Resource:  out.txt</displayName>
-		<description>SVG resource bundle for out.txt</description>
-		<author>dgthanhan</author>
-		<website>https://pencil.evolus.vn/</website>
-		<version>1.0</version>
-		<updated>2026-06-02T16:42:16.395+0700</updated>
-		<license>MIT</license>
-		<url>https://raw.githubusercontent.com/evolus/stencils-repository/master/ResourceBundles/out.txt/out.txt-1.0.zip</url>
-		<thumbnail>https://raw.githubusercontent.com/evolus/stencils-repository/master/ResourceBundles/out.txt/preview.png</thumbnail>
-		<icon/>
-	</Collection>
-
-	<Collection>
 		<id>tablerFilledIcons</id>
 		<displayName>Resource:  tablerFilledIcons</displayName>
 		<description>SVG resource bundle for tablerFilledIcons</description>
