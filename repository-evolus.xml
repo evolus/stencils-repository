@@ -70,12 +70,10 @@
 		<icon/>
 	</Collection>
 	
-	
-
 	<Collection>
 		<id>bootstrapOfficalIcons</id>
-		<displayName>Resource:  bootstrapOfficalIcons</displayName>
-		<description>SVG resource bundle for bootstrapOfficalIcons</description>
+		<displayName>Bootstrap Offical Icons</displayName>
+		<description>SVG resource bundle for Bootstrap Offical Icons</description>
 		<author>dgthanhan</author>
 		<website>https://pencil.evolus.vn/</website>
 		<version>1.0</version>
@@ -88,8 +86,8 @@
 
 	<Collection>
 		<id>fontawesomeIcons</id>
-		<displayName>Resource:  fontawesomeIcons</displayName>
-		<description>SVG resource bundle for fontawesomeIcons</description>
+		<displayName>Font Awesome Icons</displayName>
+		<description>SVG resource bundle for Font Awesome Icons</description>
 		<author>dgthanhan</author>
 		<website>https://pencil.evolus.vn/</website>
 		<version>1.0</version>
@@ -102,8 +100,8 @@
 
 	<Collection>
 		<id>glowIcons</id>
-		<displayName>Resource:  glowIcons</displayName>
-		<description>SVG resource bundle for glowIcons</description>
+		<displayName>Glow UI Icons</displayName>
+		<description>SVG resource bundle for Glow UI Icons</description>
 		<author>dgthanhan</author>
 		<website>https://pencil.evolus.vn/</website>
 		<version>1.0</version>
@@ -116,8 +114,8 @@
 
 	<Collection>
 		<id>heroiconsOutlineIcons</id>
-		<displayName>Resource:  heroiconsOutlineIcons</displayName>
-		<description>SVG resource bundle for heroiconsOutlineIcons</description>
+		<displayName>Heroicons Outline Icons</displayName>
+		<description>SVG resource bundle for Heroicons Outline Icons</description>
 		<author>dgthanhan</author>
 		<website>https://pencil.evolus.vn/</website>
 		<version>1.0</version>
@@ -130,8 +128,8 @@
 
 	<Collection>
 		<id>heroiconsSolidIcons</id>
-		<displayName>Resource:  heroiconsSolidIcons</displayName>
-		<description>SVG resource bundle for heroiconsSolidIcons</description>
+		<displayName>Heroicons Solid Icons</displayName>
+		<description>SVG resource bundle for Heroicons Solid Icons</description>
 		<author>dgthanhan</author>
 		<website>https://pencil.evolus.vn/</website>
 		<version>1.0</version>
@@ -144,8 +142,8 @@
 
 	<Collection>
 		<id>lucideIcons</id>
-		<displayName>Resource:  lucideIcons</displayName>
-		<description>SVG resource bundle for lucideIcons</description>
+		<displayName>Lucide Icons</displayName>
+		<description>SVG resource bundle for Lucide Icons</description>
 		<author>dgthanhan</author>
 		<website>https://pencil.evolus.vn/</website>
 		<version>1.0</version>
@@ -158,8 +156,8 @@
 
 	<Collection>
 		<id>tablerFilledIcons</id>
-		<displayName>Resource:  tablerFilledIcons</displayName>
-		<description>SVG resource bundle for tablerFilledIcons</description>
+		<displayName>Tabler Filled Icons</displayName>
+		<description>SVG resource bundle for Tabler Filled Icons</description>
 		<author>dgthanhan</author>
 		<website>https://pencil.evolus.vn/</website>
 		<version>1.0</version>
@@ -172,8 +170,8 @@
 
 	<Collection>
 		<id>tablerOutlineIcons</id>
-		<displayName>Resource:  tablerOutlineIcons</displayName>
-		<description>SVG resource bundle for tablerOutlineIcons</description>
+		<displayName>Tabler Outline Icons</displayName>
+		<description>SVG resource bundle for Tabler Outline Icons</description>
 		<author>dgthanhan</author>
 		<website>https://pencil.evolus.vn/</website>
 		<version>1.0</version>
@@ -185,8 +183,6 @@
 	</Collection>
 
 
-	
-	
     <Collection>
         <id>evolus.Uncategorized</id>
         <displayName>Uncategorized Shapes</displayName>
