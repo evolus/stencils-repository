@@ -4,9 +4,21 @@ Stencil collections and icon bundles for [Evolus Pencil](https://pencil.evolus.v
 
 | Feed | URL | Contents |
 | :--- | :--- | :--- |
-| Official (built in) | [`repository.xml`](https://raw.githubusercontent.com/evolus/stencils-repository/master/repository.xml) | Ant Design, Material mockups, wireframes, authoring tools |
+| Official (built in) | [`repository.xml`](https://raw.githubusercontent.com/evolus/stencils-repository/master/repository.xml) | shadcn/ui, Ant Design, Material mockups, wireframes, authoring tools |
 | Evolus extended | [`repository-evolus.xml`](https://raw.githubusercontent.com/evolus/stencils-repository/master/repository-evolus.xml) | Diagrams, notes and SVG icon bundles |
 | Legacy | [`repository-outdated.xml`](https://raw.githubusercontent.com/evolus/stencils-repository/master/repository-outdated.xml) | Old platforms, kept for opening old documents |
+
+## New: shadcn/ui Design
+
+![shadcn/ui Design: a project dashboard built with the collection](evolus.pencil.shadcn2026/preview.png)
+
+`evolus.pencil.shadcn2026` follows shadcn/ui (Radix base, style nova):
+- 35 shapes and 173 named styles for sidebars, forms, tables, cards, menus, dialogs, sheets, toasts and chat;
+- Lucide icons and the embedded Inter font;
+- collection settings for style, base color, accent, light or dark mode, radius and font;
+- built-in instructions for AI agents designing through Pencil MCP.
+
+**Requires Pencil 4.0.0 or later.** [Download ZIP](https://raw.githubusercontent.com/evolus/stencils-repository/master/evolus.pencil.shadcn2026/evolus.pencil.shadcn2026.zip) (MIT; Lucide icons under ISC, Inter under OFL-1.1).
 
 ## New: Ant Design 2026
 
@@ -33,6 +45,7 @@ Stencil collections and icon bundles for [Evolus Pencil](https://pencil.evolus.v
 
 | Collection | ID | Version | Pencil | License | Download |
 | :--- | :--- | :---: | :---: | :---: | :---: |
+| shadcn/ui Design | `evolus.pencil.shadcn2026` | 1.0.0 | 4.0.0+ | MIT | [ZIP](https://raw.githubusercontent.com/evolus/stencils-repository/master/evolus.pencil.shadcn2026/evolus.pencil.shadcn2026.zip) |
 | Ant Design 2026 | `evolus.pencil.ant2026` | 1.0.0 | 4.0.0+ | MIT | [ZIP](https://raw.githubusercontent.com/evolus/stencils-repository/master/evolus.pencil.ant2026/evolus.pencil.ant2026.zip) |
 | Generic Wireframe | `dgthanhan.GenericWireframe` | 1.0 | 3.0.2+ | MIT | [ZIP](https://github.com/dgthanhan/stencils/releases/download/SB-1.0-WF/GenericWireframe-1.0.zip) |
 | Desktop Material Mockup | `dgthanhan.MaterialDesktopMockup` | 1.0.4 | 3.0.4+ | MIT | [ZIP](https://github.com/dgthanhan/stencils/releases/download/DMM1.0.4/DesktopMaterialMockup-1.0.4.zip) |

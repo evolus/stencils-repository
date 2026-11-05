@@ -4,6 +4,19 @@
     </metadata>
 <!-- new collections should be added with new syntax using the uppercase "C" in tag name and an indication of minimal Pencil version required -->
     <Collection required-version="4.0.0">
+        <id>evolus.pencil.shadcn2026</id>
+        <displayName>shadcn/ui Design</displayName>
+        <description>Stencils that follow shadcn/ui (Radix base, style nova): 35 shapes and 173 named styles for sidebars, forms, tables, cards, menus, dialogs, toasts and chat, with Lucide icons and embedded Inter. Style and theme are chosen in the collection settings. Requires Pencil 4.0.0.</description>
+        <author>Evolus Pencil Team</author>
+        <website>https://pencil.evolus.vn/</website>
+        <version>1.0.0</version>
+        <updated>2026-11-05T00:00:00.000Z</updated>
+        <license>MIT</license>
+        <url>https://raw.githubusercontent.com/evolus/stencils-repository/master/evolus.pencil.shadcn2026/evolus.pencil.shadcn2026.zip</url>
+        <thumbnail>https://raw.githubusercontent.com/evolus/stencils-repository/master/evolus.pencil.shadcn2026/preview.png</thumbnail>
+        <icon></icon>
+    </Collection>
+    <Collection required-version="4.0.0">
         <id>evolus.pencil.ant2026</id>
         <displayName>Ant Design 2026</displayName>
         <description>Enterprise UI stencils that match Ant Design 5 (antd 5.29.3): 42 shapes and 185 named styles for layouts, forms, tables, navigation, feedback and overlays, with real Ant icons and embedded Roboto. Requires Pencil 4.0.0.</description>
